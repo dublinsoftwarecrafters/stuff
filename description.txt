@@ -1,0 +1,18 @@
+The manifesto for Software Craftsmanship 
+
+This is an open community for those Developers who care about what they do, regardless how experienced they are. We want to build a community around passionate developers, interested in improving their technical skills, in discussing and sharing their knowledge with their peers.
+
+This is all about "learning by doing": Coding Dojos, Architectural Katas, Mob sessions, moderated discussions, reading club, ...
+
+We value:
+
+• Practical, concrete discussions on code over generic talks. 
+• Solutions applicable in any language over vendor-specific tool marketing. 
+• Exchange of ideas in an open environment over passive listening. 
+• Learning by practising with peers over hearing and forgetting.
+
+Manifesto for Software Craftsmanship Gatherings
+
+Follow us on Twitter @DublinSwCraft
+
+Slack channel: http://softwarecrafters.slack.com/messages/dublin/
